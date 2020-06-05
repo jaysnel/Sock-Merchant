@@ -2,7 +2,7 @@
 Sock Merchant challenge from Hacker Rank
 
 Difficulty:
-HackerRank: Easy
+HackerRank: Easy | 
 Opinion: Medium
 
 Another day, another challenge completed. This challenge is from Hacker Rank found it not too difficult.
